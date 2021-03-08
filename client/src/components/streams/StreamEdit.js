@@ -7,7 +7,6 @@ import StreamForm from './StreamForm';
 class StreamEdit extends Component{
 
   componentDidMount(){
-    console.log(this.props)
     this.props.fetchStream(this.props.match.params.id)
   }
   
