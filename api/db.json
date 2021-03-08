@@ -9,6 +9,17 @@
       "title": "My Second Stream",
       "description": "This is my Stream number 2",
       "id": 2
+    },
+    {
+      "title": "edited",
+      "description": "Streaming with a user id",
+      "id": 3
+    },
+    {
+      "title": "using a patch",
+      "description": "I'm a patch requested description",
+      "userId": "109855386733023057637",
+      "id": 4
     }
   ]
 }
